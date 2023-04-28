@@ -67,11 +67,3 @@ function backspc()
 {
     string=string.substr(0,string.length-1);
 }
-// var screen=document.querySelector('#screen');
-// var button = document.querySelectorAll('.button');
-// for(item of button){
-//     item.addEvenListener('click',(e)=>{
-//         buttonText = e.target.innerText;
-//    screen.value+=buttonText; 
-//     });
-// }
